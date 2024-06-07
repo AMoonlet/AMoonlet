@@ -1,3 +1,3 @@
 ```math
-\ce{$\unicode[z-index: -100; opacity: 0.5; pointer-events: none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; background-size: cover; background: url('https://github.com/AMoonlet/AMoonlet/blob/main/wallpaper.png?raw=true');]{x0000}$}
+\ce{$\unicode[pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/AMoonlet/AMoonlet/blob/main/wallpaper.png?raw=true');]{x0000}$}
 ```
